@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "Ecommerce Backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,12 +10,11 @@
     "seed": "node seeds/index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "type": "git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Nate Walchenbach",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
